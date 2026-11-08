@@ -7,7 +7,7 @@ name = "phantom-honeypot"
 version = "0.1.0"
 description = "Multi-Protocol Distributed Deception & Threat Intelligence Honeypot"
 readme = "README.md"
-authors = [{ name = "Lazarus Ebi", email = "lazorronchain@gmail.com" }]
+authors = [{ name = "Lazarus Ebi", email = "lazarusebi111@gmail.com" }]
 license = { text = "MIT" }
 requires-python = ">=3.10"
 dependencies = [
